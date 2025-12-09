@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
-    "linkedin-jobs-api": "^2.1.8",
+    "linkedin-jobs-api": "^1.0.7",
     "zod": "^3.23.8"
   },
   "devDependencies": {
