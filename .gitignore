@@ -1,6 +1,6 @@
 # Dependencies
 node_modules/
-package-lock.json
+# package-lock.json  ← COMMENTED OUT - needed for CI/CD
 yarn.lock
 
 # Build output
@@ -11,8 +11,9 @@ dist/
 *.d.ts
 *.d.ts.map
 
-# Keep the build directory structure
+# Keep specific files
 !build/.gitkeep
+!test-linkedin-api.js
 
 # Environment variables
 .env
