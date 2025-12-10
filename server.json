@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.administrativetrick/linkedin-jobs",
+  "description": "Search LinkedIn job postings with advanced filtering including experience level, salary, job type, and remote/hybrid work preferences. No authentication required.",
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registry_type": "npm",
+      "identifier": "@administrativetrick/linkedin-jobs-mcp",
+      "version": "1.0.1"
+    }
+  ]
+}
